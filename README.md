@@ -16,6 +16,16 @@
 
 ## 📥 Instalasi
 
+## Ubuntu:
+- 20 ⚠️ Partial (⚠️ SSH not working)
+- 22 ✅ All working
+- 24 ✅ All working
+
+## Debian:
+- 10 ⚠️ Partial (⚠️ SSH not working)
+- 11 ✅ All working
+- 12 ✅ All working
+
 Jalankan perintah berikut di terminal VPS Anda (sebagai root):
 
 ```bash
