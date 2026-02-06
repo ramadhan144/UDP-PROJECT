@@ -8,7 +8,7 @@
 
 *   **Minimalist CLI**: Installer dengan tampilan modern, bersih, dan elegan.
 *   **Headless Management**: Manajemen user sepenuhnya via API atau Bot (tanpa menu CLI jadul).
-*   **Telegram Bot Integration**: Kelola user (Create, Delete, Renew, List) langsung dari Telegram.
+*   **Telegram Bot Integration**: Kelola user untuk Admin (FULL ACCESS) untuk Public (only Trial, cerate akun dan info server) langsung dari Telegram.
 *   **Dynamic Security**: API Key dan sertifikat SSL digenerate otomatis saat instalasi.
 *   **High Performance**: Menggunakan core UDP ZiVPN yang dioptimalkan untuk Linux AMD64.
 
