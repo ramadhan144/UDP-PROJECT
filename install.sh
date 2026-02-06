@@ -40,7 +40,7 @@ run_silent() {
 
 clear
 echo -e "${BOLD}ZiVPN UDP Installer${RESET}"
-echo -e "${GRAY}Ris-Project Edition${RESET}"
+echo -e "${GRAY}Ramadan-Project Edition${RESET}"
 echo ""
 
 # =========================
